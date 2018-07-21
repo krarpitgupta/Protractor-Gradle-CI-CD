@@ -1,0 +1,13 @@
+{
+    "referenceNo":"33333",
+    "shipper":"Rahul",
+    "attention":"test customer",
+    "generalNotes":"General notes added successfully",
+    "carrier":"Aer Lingus",
+    "transitDays":"2",
+    "frequency":"Twice A Week",
+    "amtPerUnit":"10",
+    "minAmount":"8",
+    "notes":"Air note added successfully",
+    "quotationTableDataXpathTag":"vm.quotationList"
+}

@@ -1,0 +1,14 @@
+{
+    "jobDateSetupExport":"Current Date",
+    "jobDateSetupImport":"Current Date",
+    "daybookCode":"10",
+    "daybookName":"day book",
+    "documentType":"Invoice",
+    "noOfDigits":"6",
+    "prefix":"E",
+    "yearOption":"Yes",
+    "monthOption":"Yes",
+    "startingNumber":"1",
+    "suffix":"D",
+    "separator":"-"
+}

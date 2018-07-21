@@ -1,0 +1,21 @@
+{
+    "salutation":"Mr",
+    "firstName":"test",
+    "lastName":"user",
+    "email":"testuser@test.com",
+    "countryName":"India",
+    "companyName":"Xebia",
+    "phoneNumber":"1234567899",
+    "mobileNumber":"1234567899",
+    "address1":"company address 1",
+    "address2":"company address 2",
+    "address3":"company address 3",
+    "area":"sector-30",
+    "zipCode":"1111111",
+    "region":"Southern Asia",
+    "dateFormat":"DD-MM-YYYY",
+    "timeZone":"India Standard Time(IST+05:30)",
+    "stateProvince":"Delhi",
+    "cityName":"Delhi",
+    "existingCompanyName":"xebia"
+}
